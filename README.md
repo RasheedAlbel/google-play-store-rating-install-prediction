@@ -120,8 +120,8 @@ AI tools (e.g., ChatGPT) were used selectively to support code debugging and str
 This was a collaborative project completed as part of CSCI 113i: Business Intelligence.
 
 My primary contributions included:
-- Implementing TF-IDF preprocessing pipeline
-- Training and tuning Logistic Regression baseline (GridSearchCV)
-- Conducting model evaluation using accuracy, macro-F1, and confusion matrices
-- Performing model interpretability analysis using SHAP
-- Writing technical documentation and results interpretation
+- Conducting exploratory data analysis (EDA) to identify key predictors of ratings and install tiers
+- Implementing the Logistic Regression classification baseline for install-tier prediction
+- Supporting feature preprocessing and transformation for structured metadata variables
+- Performing model evaluation using accuracy, precision, recall, and F1-score metrics
+- Preparing technical presentation slides summarizing methodology, results, and insights
