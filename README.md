@@ -3,7 +3,7 @@
 
 > Predicting mobile app success metrics using structured metadata and machine learning.
 
-**Course:** CSci 113i | **Date:** May 2025  
+**Course:** Business Intelligence | **Date:** May 2025  
 **Authors:** Rasheed Albel, Christian Paraan, Ada Plata
 
 ---
